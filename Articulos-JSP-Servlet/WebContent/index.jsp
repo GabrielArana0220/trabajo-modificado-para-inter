@@ -13,10 +13,8 @@
 			<td align="center"><a href="adminArticulo?action=nuevo">Nuevo</a></td>			
 		</tr>
 		<tr>
-			<td align="center"><a href="adminArticulo?action=mostrar">Mostrar</a></td>
+			<td align="center"><a href="adminArticulo?action=password">Administrar</a></td>
 		</tr>
 	</table>
-	
-	
 </body>
 </html>
